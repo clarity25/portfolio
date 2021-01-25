@@ -1,0 +1,126 @@
+*{
+    font-family: sans-serif;
+    font-weight: 200;
+}
+
+body{
+    overflow-x: hidden;
+    padding: 0;
+    margin: 0;
+}
+
+#app{
+    display: flex;
+    width: 100%;
+    padding: 1rem;
+}
+#profile{
+    padding: 0 0 2rem 0;
+}
+#profile img{
+    /* opacity: .7; */
+}
+
+#aditionalInfo{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+h1{
+    font-size: 1.8rem;
+    margin: 1rem 1rem 1.5rem ;
+}
+
+p{
+    margin: 1.5rem 1rem;
+    color: #757575;
+}
+
+ul{
+    padding: 0;
+    list-style: none;
+}
+
+hr{
+    margin: 2rem .98rem;
+    width: 90%;
+    border: solid #EEEEEE 1px;
+}
+
+h3{
+    margin: 1rem 2rem;
+    color: #757575;
+    font-weight: bold;
+}
+
+h4{
+    margin-left: 1.5rem;
+    color: #009688;
+    font-size: 1.1rem;
+}
+
+span{
+    background-color: #009688;
+    color: azure;
+    padding: .3rem .8rem;
+    border-radius: 6px;
+}
+
+.container{
+    box-shadow: 1px 6px 10px 6px rgba(117, 117, 117, .3);
+}
+
+.skillsP{
+    margin: 1rem;
+}
+
+.range{
+    margin: 0 1rem;
+    border-radius: 10rem;
+    width: 90%;
+    background-color: #F1F1F1;
+}
+.rangevalue{
+    border-radius: 10rem;
+    height: 1.3rem;
+    background-color: #009688;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    font-size: 1.2rem;
+
+}
+.info{
+    padding: 1rem 2.5rem 3rem;
+    margin: 0 1rem 1rem 1rem;
+    width: 88%;
+}
+.infoHeadings{
+    font-size: 2.3rem;
+    margin: 1rem 0 2.5rem 0;
+    color: #757575;
+    font-weight: 200;
+}
+.infoTitle{
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+.infoContent{
+    color: black;
+    margin: 0;
+    line-height: 2rem;
+
+}
+.infohr{
+    margin: 2rem 0;
+    width: 100%;
+}
+
+
+
+
+
+
