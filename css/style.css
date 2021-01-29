@@ -529,6 +529,12 @@ span{
 }
 
 @media (max-width: 360px){
+    
+
+}
+
+
+@media (max-width: 360px){
     :root{
         font-size: 13px;
         overflow-x: hidden;
